@@ -456,7 +456,7 @@ GAME_GROUPS = {
             (GameType.pokemon_crystal, "Normal", "Poké Crystal"),
             (GameType.pokemon_crystal_randomizer, "Current Randomizer", "Crystal Current"),
             (GameType.pokemon_crystal_classic_randomizer, "Classic Randomizer", "Crystal Classic"),
-            (GameType.pokemon_crystal_randomizer_tournament, "2021 Summer Tournament Randomizer", "Crystal Tournament"),
+            (GameType.pokemon_crystal_randomizer_tournament, "2022 Summer Tournament Randomizer", "Crystal Tournament"),
         ],
     },
     GameType.pokemon_red_blue: {
